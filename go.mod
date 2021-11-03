@@ -1,4 +1,4 @@
-module github.com/simonpasquier/klog-gokit/v3
+module github.com/rlankfo/klog-gokit/v3
 
 require (
 	github.com/go-kit/log v0.1.0
